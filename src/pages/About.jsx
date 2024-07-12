@@ -26,7 +26,7 @@ const About = () => {
           <div className='flex w-full border-2 border-sky-400 p-10 rounded-3xl shadow-inner shadow-sky-400 justify-between flex-col gap-5'>
             <h1 className='font-bold text-info'>About me</h1>
             <p className='text-info text-opacity-50 tracking-wide '>
-              Hello My name is <span className='border-2  text-yellow-500 rounded-lg px-2 font-bold'>IBROKHIM</span>, my surname is <span className='border-2 text-yellow-500 rounded-lg px-2 font-bold'>JURAEV</span>. I study in Mars IT School.
+              Hello My name is <span className='border-2  text-yellow-500 rounded-lg px-2 font-bold'>IBROKHIMGEY</span>, my surname is <span className='border-2 text-yellow-500 rounded-lg px-2 font-bold'>JURAEV</span>. I study in Mars IT School.
               I've been studying for 10 months now. 3 months in Starter and 6 months in Front-End and 2 months in React.
               I like to play video games Beamng.Drive, Pubg Mobile, Car Parking, I like to play Hacked games.
             </p>
